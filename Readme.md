@@ -20,6 +20,11 @@
 - Font Awesome (icons)
 - Google Fonts 
 
+## 🌐 Live Demo
+
+🔗 [View the app on Netlify](https://fportz.netlify.app/)  
+
+
 ## ✅ วิธีใช้งาน
 
 1. ดาวน์โหลดหรือ clone repo นี้
